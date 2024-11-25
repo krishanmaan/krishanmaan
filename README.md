@@ -2,7 +2,7 @@
 
 
 
-![Header Image](https://your-image-link.com/header.jpg)
+
 
 # 👋 Hi, I'm Krishan Maan
 
@@ -48,7 +48,7 @@ At [MaanOX](https://maanox.krishanmaan.com), we are committed to delivering top-
 - 
 
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2024
+counting of visitors to this page in this section started from Sep 7, 2024
 
 ![](https://count.getloli.com/@krishanmaan.github.readme?theme=booru-twifanartsfw)
 </br>
