@@ -50,7 +50,7 @@ At [MaanOX](https://maanox.krishanmaan.com), we are committed to delivering top-
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2024
 
-![](https://count.getloli.com/get/@krishanmaan.github.readme)
+![](https://count.getloli.com/@krishanmaan.github.readme?theme=booru-twifanartsfw)
 </br>
 
 
