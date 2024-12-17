@@ -36,8 +36,8 @@ At [MaanOX](https://maanox.krishanmaan.com), we are committed to delivering top-
 
 ## 📸 Gallery
 
-![Project Image 1](https://krishanmaan.com/_next/image?url=%2FheyTutor.png&w=640&q=75)
-![Project Image 2](https://krishanmaan.com/_next/image?url=%2Fmaanox.png&w=640&q=75)
+![Project Image 1](https://www.krishanmaan.com/_next/image?url=%2Fhayyp.jpg&w=640&q=75)
+![Project Image 2](https://www.krishanmaan.com/_next/image?url=%2Ftracesafe.webp&w=640&q=75)
 
 ## ⚡ Fun Facts
 
