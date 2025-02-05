@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Krishan Maan
 
-I am a passionate web developer and the founder of [MaanOX](https://maanox.krishanmaan.com), a New York-based agency specializing in creating efficient, scalable, and user-friendly solutions. With a strong foundation in TypeScript, JavaScript, React, Node.js, and Three.js, I thrive on transforming ideas into reality through code.
+I am a passionate web developer and the founder of [MaanOX](https://maanox.com), a New York-based agency specializing in creating efficient, scalable, and user-friendly solutions. With a strong foundation in TypeScript, JavaScript, React, Node.js, and Three.js, I thrive on transforming ideas into reality through code.
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@ I am a passionate web developer and the founder of [MaanOX](https://maanox.krish
 - 🌱 I’m continuously learning and expanding my knowledge in web development and emerging technologies.
 - 👯 I’m looking to collaborate on exciting web development projects that push the boundaries of innovation.
 - 💬 Ask me about web development, TypeScript, React, Node.js, and Three.js.
-- 📫 How to reach me: [krishanmaan651@gmail.com](mailto:krishanmaan651@gmail.com)
+- 📫 How to reach me: [krishanmaan651@gmail.com](mailto:hello.maanox.com)
 
 ## 🌐 Connect with Me
 
@@ -24,7 +24,7 @@ I am a passionate web developer and the founder of [MaanOX](https://maanox.krish
 
 ## 💼 MaanOX
 
-At [MaanOX](https://maanox.krishanmaan.com), we are committed to delivering top-notch web solutions. Our expertise includes:
+At [MaanOX](https://maanox.com), we are committed to delivering top-notch web solutions. Our expertise includes:
 - Web Development
 - App Development
 - SEO (Search Engine Optimization)
