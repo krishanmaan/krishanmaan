@@ -13,7 +13,7 @@
   <a href="https://twitter.com/krishanmaan_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white"/>
   </a>
-  <a href="mailto:gymowner@gmail.com">
+  <a href="mailto:hello@maanox.com">
     <img src="https://img.shields.io/badge/Email-FF6F61?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://krishanmaan.com">
